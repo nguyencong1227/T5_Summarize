@@ -8,7 +8,7 @@ import torch
 import base64
 
 #model and tokenizer loading
-checkpoint = "LaMini-Flan-T5-248M"
+checkpoint = "LaMini-Flan-T5-783M"
 tokenizer = T5Tokenizer.from_pretrained(checkpoint)
 base_model = T5ForConditionalGeneration.from_pretrained(checkpoint, device_map='auto', torch_dtype=torch.float32)
 
