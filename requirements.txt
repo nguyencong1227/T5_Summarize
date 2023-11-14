@@ -1,6 +1,7 @@
 langchain
 sentence_transformers 
-torch sentencepiece 
+torch 
+sentencepiece 
 transformers 
 accelerate 
 chromadb 
