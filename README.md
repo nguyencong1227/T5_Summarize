@@ -16,3 +16,6 @@ git clone https://huggingface.co/MBZUAI/LaMini-Flan-T5-783M
 ```bash
 streamlit run app.py
 ```
+
+# Run app with colab
+- Link: <a href="https://colab.research.google.com/drive/1jYwuYPvIqfrUiEkzDvrmUcdIEP7rDjf0?usp=sharing">HERE</a>
